@@ -1,0 +1,26 @@
+0eb43a9 (HEAD -> master, origin/master, origin/develop, develop) HEAD@{0}: merge develop: Fast-forward
+f93a25a HEAD@{1}: checkout: moving from develop to master
+0eb43a9 (HEAD -> master, origin/master, origin/develop, develop) HEAD@{2}: commit (merge): Merged images, styles branches. Resolved merge conflict.
+10df72f (origin/images, images) HEAD@{3}: merge images: Fast-forward
+1880c32 HEAD@{4}: checkout: moving from styles to develop
+bacae7c (origin/styles, styles) HEAD@{5}: commit: Connected styles.css to index.html
+311c608 HEAD@{6}: commit: Added styles.css
+1880c32 HEAD@{7}: checkout: moving from images to styles
+10df72f (origin/images, images) HEAD@{8}: checkout: moving from styles to images
+1880c32 HEAD@{9}: checkout: moving from images to styles
+10df72f (origin/images, images) HEAD@{10}: checkout: moving from styles to images
+1880c32 HEAD@{11}: checkout: moving from images to styles
+10df72f (origin/images, images) HEAD@{12}: checkout: moving from styles to images
+1880c32 HEAD@{13}: checkout: moving from master to styles
+f93a25a HEAD@{14}: checkout: moving from images to master
+10df72f (origin/images, images) HEAD@{15}: checkout: moving from styles to images
+1880c32 HEAD@{16}: checkout: moving from develop to styles
+1880c32 HEAD@{17}: checkout: moving from images to develop
+10df72f (origin/images, images) HEAD@{18}: commit: Added image sources to index.html
+0f7d465 HEAD@{19}: commit: Added images
+1880c32 HEAD@{20}: checkout: moving from develop to images
+1880c32 HEAD@{21}: checkout: moving from master to develop
+f93a25a HEAD@{22}: checkout: moving from develop to master
+1880c32 HEAD@{23}: commit: Added index.html
+f93a25a HEAD@{24}: checkout: moving from master to develop
+f93a25a HEAD@{25}: commit (initial): Initial commit
