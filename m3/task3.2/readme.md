@@ -24,7 +24,7 @@ Trace between DataCenter and Enterprise servers
 
 ![pic6](screenshots/6.png)
 
-I changed subnetwork mask to 255.255.255.192 and now i cant connect to the server, which has static ip address 11.22.2.150. It happens because mask /26 includes only addresses from 11.22.2.1 to 11.22.2.63
+I changed subnetwork mask to 255.255.255.192 and now I cant connect to the server, which has static ip address 11.22.2.150. It happens because mask /26 uses first two bits of last bite to define the subnetworks. Now servers belongs to different subnetworks and cant connect directly.
 
 ![pic7](screenshots/7.png)
 
