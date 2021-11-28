@@ -2,7 +2,7 @@
 
 **Dmytro Kubai**
 
-###PART 1
+### PART 1
 
 Istalled MySQL
 
@@ -60,7 +60,7 @@ Made selection from main table DB MySQL
 
 ![pic14](screenshots/14.png)
 
-###PART 2
+### PART 2
 
 Created new database dump 
 
@@ -94,7 +94,7 @@ Created a dump of remote database
 
 ![](screenshots/22.png)
 
-###PART3
+### PART3
 
 Created new DynamoDB table
 
