@@ -131,23 +131,23 @@ Hard link referencesto to the spot on a hard drive where the Inode stores the da
 # 13) What are the types of devices and how to determine the type of device? Give examples.
 
 Devices types: 
-c - character
-b - block
-p - pipe
-s - socket
+- c - character
+- b - block
+- p - pipe
+- s - socket
 
 ![pic28](screenshots/28.png)
 
 # 14) How to determine the type of file in the system, what types of files are there?
 
-Regular files ('-')
-Directory files ('d')
-Special files (5 types)
-Block file('b')
-Character device file('c')
-Named pipe file or just a pipe file('p')
-Symbolic link file('l')
-Socket file('s')
+- Regular files ('-')
+- Directory files ('d')
+- Special files (5 types)
+- Block file('b')
+- Character device file('c')
+- Named pipe file or just a pipe file('p')
+- Symbolic link file('l')
+- Socket file('s')
 
 ![pic29](screenshots/29.png)
 
