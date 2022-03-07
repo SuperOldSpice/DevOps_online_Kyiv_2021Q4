@@ -13,5 +13,7 @@ Continued learning Pipeline Syntax and created jenkinsfile manually and pushed t
 Logs
 
 ![pic5](screenshots/5.png)
+
 ![pic3](screenshots/3.png)
+
 ![pic4](screenshots/4.png)
